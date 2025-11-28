@@ -7,11 +7,11 @@ import sys
 
 # --- CONFIGURATION SÉCURISÉE DE GITHUB (À REMPLACER) ---
 # 1. Personal Access Token (PAT) avec la permission 'repo'
-GITHUB_TOKEN = "<VOTRE_PERSONAL_ACCESS_TOKEN_GITHUB>" 
+GITHUB_TOKEN = "<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>" 
 # 2. Votre nom d'utilisateur GitHub
-GITHUB_OWNER = "<VOTRE_NOM_UTILISATEUR_GITHUB>" 
+GITHUB_OWNER = "<Elyseproduction>" 
 # 3. Nom du dépôt où les licences seront stockées (ex: SMM_KINGDOM_LICENSES)
-GITHUB_REPO = "<NOM_DU_DEPOT_DE_LICENSES>" 
+GITHUB_REPO = "<SMM_KINGDOM_LICENSES>" 
 # 4. Nom du fichier de base de données des licences
 LICENSE_FILENAME = "active_licenses.json" 
 

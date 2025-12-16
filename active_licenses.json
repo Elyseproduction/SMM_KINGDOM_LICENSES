@@ -16,5 +16,11 @@
         "generated_for": "7790337782",
         "timestamp": "2025-11-28T16:39:39.136667",
         "status": "ACTIVE"
+    },
+    {
+        "code": "SMM-251216-50E466CDB1",
+        "generated_for": "telegram_user_45678",
+        "timestamp": "2025-12-16T20:10:59.862396",
+        "status": "ACTIVE"
     }
 ]
